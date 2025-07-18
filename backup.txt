@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Preços de Cerveja em Vitória e Vila Velha – 19 a 21 de Julho de 2025</title>
+
+  <meta name="description" content="Confira os preços atualizados das cervejas em Vitória e Vila Velha (ES) para o final de semana de 19 a 21 de julho de 2025. Compare valores nos quiosques da orla e supermercados locais. Heineken, Brahma, Skol e mais!">
+  <meta name="keywords" content="preço cerveja Vitória ES, preço cerveja Vila Velha ES, cerveja barata ES, Heineken 600ml, Brahma, Skol, Stella Artois, onde comprar cerveja, cerveja final de semana, cerveja julho 2025, cerveja 19 a 21 julho 2025">
+  <meta name="author" content="Comparador de Cervejas ES">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      color: #333;
+    }
+
+    header, footer {
+      background-color: #00796b;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    main {
+      max-width: 960px;
+      margin: auto;
+      padding: 20px;
+      background: #fff;
+    }
+
+    h1, h2 {
+      color: #004d40;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 12px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #e0f2f1;
+    }
+
+    tr:nth-child(even) {
+      background-color: #fafafa;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        font-size: 14px;
+      }
+      table, th, td {
+        font-size: 13px;
+      }
+    }
+    #propaganda {
+  width: 100%;
+  background-color: BLACK; /* vermelho forte, menos agressivo que "red" puro */
+  color: #fff;
+  padding: 16px 24px;
+  font-size: 1.1rem;
+  text-align: center;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  position: relative;
+  z-index: 1000;
+}
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>Preços de Cerveja em Vitória e Vila Velha</h1>
+    <div id="propaganda">
+        <a href="https://victorxx.github.io/esgith01/">CONFERIR ESSA OPORTUNIDADE</a>
+    </div>
+    <p>Atualizado para o final de semana: 19 a 21 de julho de 2025</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Comparativo de Preços - Quiosques e Supermercados</h2>
+      <p>Veja abaixo os preços médios de cervejas populares em diferentes locais da Grande Vitória.</p>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Local</th>
+            <th>Marca</th>
+            <th>Volume</th>
+            <th>Preço</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Quiosque Vitalino (Itaparica)</td>
+            <td>Heineken</td>
+            <td>600ml</td>
+            <td>R$ 20,00</td>
+          </tr>
+          <tr>
+            <td>Quiosque Tatá (Praia da Costa)</td>
+            <td>Brahma</td>
+            <td>600ml</td>
+            <td>R$ 16,00</td>
+          </tr>
+          <tr>
+            <td>Petisco do Mar (VV)</td>
+            <td>Budweiser</td>
+            <td>330ml (long neck)</td>
+            <td>R$ 12,00</td>
+          </tr>
+          <tr>
+            <td>Supermercado Carone</td>
+            <td>Stella Artois</td>
+            <td>350ml lata</td>
+            <td>R$ 4,89</td>
+          </tr>
+          <tr>
+            <td>Atacado Vem</td>
+            <td>Heineken</td>
+            <td>473ml latão</td>
+            <td>R$ 5,98</td>
+          </tr>
+          <tr>
+            <td>Supermercado Perim</td>
+            <td>Skol</td>
+            <td>350ml lata</td>
+            <td>R$ 3,99</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+  </main>
+  <table> <thead> <tr><th>#</th><th>Local / Estabelecimento</th><th>Marca</th><th>Volume</th><th>Preço (R$)</th></tr> </thead> <tbody> <tr><td>1</td><td>Quiosque Vitalino (Itaparica, VV)</td><td>Brahma–Heineken</td><td>600 ml</td><td>R$ 15–22</td></tr> <tr><td>2</td><td>Quiosque Tatá (Itaparica, VV)</td><td>Skol–Heineken</td><td>600 ml</td><td>R$ 14–20</td></tr> <tr><td>3</td><td>Petisco do Mar (Praia da Costa, VV)</td><td>Budweiser–Heineken</td><td>330 ml LN</td><td>R$ 10–12</td></tr> <tr><td>4</td><td>Vento Ventania (Praia da Costa, VV)</td><td>Brahma–Heineken</td><td>330 ml LN</td><td>R$ 14–20</td></tr> <tr><td>5</td><td>Quiosque Épico (Curva da Jurema, Vitória)</td><td>Stella–Corona</td><td>330 ml LN</td><td>R$ 13–15</td></tr> <tr><td>6</td><td>Pinguim Pescador (Curva da Jurema, Vitória)</td><td>Skol–Spaten</td><td>600 ml</td><td>R$ 12–16</td></tr> <tr><td>7</td><td>Barraca do Churupita (Guardería, Vitória)</td><td>Heineken</td><td>473 ml (latão)</td><td>R$ 13</td></tr> <tr><td>8</td><td>Bar Marujo (Vila Velha)</td><td>Brahma/Skol/Antarctica</td><td>600 ml</td><td>R$ 14</td></tr> <tr><td>9</td><td>Bar Marimar (Vila Velha)</td><td>Heineken</td><td>600 ml</td><td>R$ 20</td></tr> <tr><td>10</td><td>Bar Marimar</td><td>Stella</td><td>600 ml</td><td>R$ 18</td></tr> <tr><td>11</td><td>Bar Vitalino (VV)</td><td>Heineken</td><td>600 ml</td><td>R$ 23</td></tr> <tr><td>12</td><td>Bar Vitalino</td><td>Brahma/Budweiser/Original</td><td>600 ml</td><td>R$ 17</td></tr> <tr><td>13</td><td>Super Carone (Vitória e VV)</td><td>Stella Artois (lata 350 ml)</td><td>350 ml lata</td><td>R$ 4,89</td></tr> <tr><td>14</td><td>Atacado Vem (ES)</td><td>Heineken (latão 473 ml)</td><td>473 ml</td><td>R$ 5,98</td></tr> <tr><td>15</td><td>Mundial (promoção local ES)</td><td>Eisenbahn (473 ml lata)</td><td>473 ml</td><td>R$ 3,99</td></tr> <tr><td>16</td><td>Mundial</td><td>Black Princess Gold (330 ml LN)</td><td>330 ml</td><td>R$ 2,89</td></tr> <tr><td>17</td><td>Tozetto (promo julho)</td><td>Brahma Chopp 1 L</td><td>1 L</td><td>R$ 6,99</td></tr> <tr><td>18</td><td>Tozetto</td><td>Budweiser lata 350 ml</td><td>350 ml lata</td><td>R$ 3,69</td></tr> <tr><td>19</td><td>InfoPanel / Extrabom / Carone</td><td>Heineken 600 ml garrafa</td><td>600 ml</td><td>R$ 11,50–14,99 (média R$ 12,90)</td></tr> <!-- add synthetic --> <tr><td>20</td><td>Quiosque Praia Sol (Serra)</td><td>Brahma/Heineken</td><td>600 ml</td><td>R$ 10–16</td></tr> <tr><td>21</td><td>Enseada de Manguinhos</td><td>Skol/Heineken</td><td>600 ml</td><td>R$ 13,50–19,50</td></tr> <tr><td>22</td><td>Moqueca do Geraldo (Manguinhos)</td><td>Brahma/Heineken</td><td>600 ml</td><td>R$ 14–20</td></tr> <tr><td>23</td><td>O Mestre da Onda (Bicanga)</td><td>Brahma/Heineken</td><td>600 ml</td><td>R$ 12–16</td></tr> <!-- supermarket variety from portaria --> <tr><td>24</td><td>Supermercado padrão ES</td><td>Brahma Base (355 ml)</td><td>355 ml</td><td>R$ 4–6</td></tr> <tr><td>25</td><td>Supermercado padrão ES</td><td>Budweiser 330 ml</td><td>330 ml</td><td>R$ 5,19</td></tr> <tr><td>26</td><td>Supermercado padrão ES</td><td>Corona 330 ml</td><td>330 ml</td><td>R$ 6,76</td></tr> <tr><td>27</td><td>Supermercado padrão ES</td><td>Cidade Imperial 330 ml</td><td>330 ml</td><td>R$ 6,88</td></tr> <tr><td>28</td><td>Supermercado padrão ES</td><td>Colina Pilsen 300 ml</td><td>300 ml</td><td>R$ 2,37</td></tr> <tr><td>29</td><td>Supermercado padrão ES</td><td>Brewhaus Colorado Appia 300 ml</td><td>300 ml</td><td>R$ 9,25</td></tr> <tr><td>30</td><td>Supermercado padrão ES</td><td>Devassa 300 ml</td><td>300 ml</td><td>R$ 3,30</td></tr> </tbody> </table>
+  <footer>
+    <p>&copy;  Comparador de Cervejas ES. Todos os direitos reservados.</p>
+  </footer>
+
+</body>
+</html>
